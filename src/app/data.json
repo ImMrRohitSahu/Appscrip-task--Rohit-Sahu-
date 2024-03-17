@@ -1,0 +1,128 @@
+[
+    {
+        "id": 0,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 20,
+        "image": "/src/assets/product1.png"
+    },
+    {
+        "id": 1,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 0,
+        "image": "/src/assets/product2.png"
+    },
+    {
+        "id": 2,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product3.png"
+    },
+    {
+        "id": 3,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product4.png"
+    },
+    {
+        "id": 4,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product5.png"
+    },
+    {
+        "id": 5,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product6.png"
+    },
+    {
+        "id": 6,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product7.png"
+    },
+    {
+        "id": 7,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product8.png"
+    },
+    {
+        "id": 8,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product9.png"
+    },
+    {
+        "id": 9,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product10.png"
+    },
+    {
+        "id": 10,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product11.png"
+    },
+    {
+        "id": 11,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product12.png"
+    },
+    {
+        "id": 12,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product13.png"
+    },
+    {
+        "id": 13,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product14.png"
+    },
+    {
+        "id": 14,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product15.png"
+    },
+    {
+        "id": 15,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product16.png"
+    },
+    {
+        "id": 16,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product17.png"
+    },
+    {
+        "id": 17,
+        "title": "Product Name",
+        "description": "Sign in or Create an account to see pricing",
+        "stock": 12,
+        "image": "/src/assets/product18.png"
+    }
+]
