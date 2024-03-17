@@ -22,11 +22,11 @@ const AppFooter = () => {
     <footer className="app-footer">
       <div className="upper-footer">
         <div className="left-side">
-          <span className="upper-left-heading white">Be the first to know</span>
-          <span className="upper-left-para x-sm-hide-element">
+          <span className="upper-left-heading fullwidth white">Be the first to know</span>
+          <span className="upper-left-para x-sm-hide-element fullwidth">
             Sign up for updates from mettā muse.
           </span>
-          <span className="upper-left-para outer-hide">
+          <span className="upper-left-para outer-hide fullwidth">
             Lorem Ipsum is simply dummy text of the printing and typesetting
             industry. this is simply dummy text.
           </span>
@@ -36,14 +36,14 @@ const AppFooter = () => {
           </div>
         </div>
         <div className="right-side x-sm-hide-element">
-          <span className="upper-right-heading white">CONTACT US</span>
+          <span className="upper-right-heading white fullwidth">CONTACT US</span>
           <span className="upper-right-number">+44 221 133 5360</span>
           <span className="upper-right-email">customercare@mettamuse.com</span>
           <span className="upper-right-heading white">Currency</span>
           <div className="upper-right-number img-flag">
             <img src={USDFlag} alt="US Flag" className="flag" />
             <span className="dot"></span>
-            <span className="USD">USD</span>
+            <span className="USD fullwidth">USD</span>
           </div>
           <span className="upper-right-x-small-text">
             Transactions will be completed in Euros and a currency reference is
@@ -51,15 +51,15 @@ const AppFooter = () => {
           </span>
         </div>
         <div className="outer-hide right-side right-side-sm">
-          <span className="upper-right-heading white">CALL US</span>
-          <span className="upper-right-number">
+          <span className="upper-right-heading white fullwidth">CALL US</span>
+          <span className="upper-right-number fullwidth">
             +44 221 133 5360 <span className="dot"></span>{" "}
             customercare@mettamuse.com
           </span>
         </div>
         <div className="outer-hide right-side right-side-sm">
-          <span className="upper-right-heading white">Currency</span>
-          <div className="upper-right-number img-flag">
+          <span className="upper-right-heading white fullwidth">Currency</span>
+          <div className="upper-right-number fullwidth img-flag">
             <img src={USDFlag} alt="US Flag" className="flag" />
             <span className="dot"></span>
             <span className="USD">USD</span>
@@ -69,8 +69,8 @@ const AppFooter = () => {
       <div className="lower-footer">
         <div className="lower-left-side x-sm-hide-element">
           <div className="left--left-side">
-            <span className="lowercase white">mettā muse</span>
-            <div className="options-lower">
+            <span className="lowercase white fullwidth">mettā muse</span>
+            <div className="options-lower fullwidth">
               <span className="options">About Us</span>
               <span className="options">Stories</span>
               <span className="options">Artisans</span>
@@ -80,8 +80,8 @@ const AppFooter = () => {
             </div>
           </div>
           <div className="left--right-side">
-            <span className="white">Quick Links</span>
-            <div className="options-lower">
+            <span className="white fullwidth">Quick Links</span>
+            <div className="options-lower fullwidth">
               <span className="options">Orders & Shipping</span>
               <span className="options">Join/Login as a Seller</span>
               <span className="options">Payment & Pricing</span>
@@ -93,8 +93,8 @@ const AppFooter = () => {
           </div>
         </div>
         <div className="lower-right-side x-sm-hide-element">
-          <div className="follow">
-            <span className="white">Follow Us</span>
+          <div className="follow fullwidth">
+            <span className="white fullwidth">Follow Us</span>
             <div className="follow-img">
               <img src={instagram} alt="Instagram" />
               <img src={linkdin} alt="Linkdin" />
@@ -102,7 +102,7 @@ const AppFooter = () => {
           </div>
           <div className="payment">
             <div>
-              <span className="lowercase white">mettā muse</span>
+              <span className="lowercase white ">mettā muse</span>
               <span className="white"> Accepts</span>
             </div>
             <div className="payment-img">

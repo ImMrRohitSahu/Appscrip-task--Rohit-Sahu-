@@ -464,6 +464,9 @@ main {
   padding: 3rem 0px;
   border-bottom: 2px solid #ffffff;
 }
+.fullwidth{
+  width: 100%;
+}
 .left-side,
 .right-side {
   flex-grow: 1;
@@ -583,6 +586,7 @@ main {
 }
 .options{
   cursor: pointer;
+  flex-grow: 1;
 }
 .options:hover{
   text-decoration: underline;
@@ -961,5 +965,8 @@ main {
   }
   .for-sm-follow{
     margin-top: 1.5rem;
+  }
+  .options{
+    width: 100%;
   }
 }
