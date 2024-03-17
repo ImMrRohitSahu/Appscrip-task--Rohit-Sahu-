@@ -1,5 +1,5 @@
 import { useState } from "react";
-import products from "../../app/data.json";
+import products from "../../data.json";
 import heartIcon from "/src/assets/heart.png";
 import redheart from "/src/assets/redheart.png";
 
