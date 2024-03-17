@@ -4,21 +4,21 @@
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 20,
-        "image": "/assets/product1.png"
+        "image": "/src/assets/product1.png"
     },
     {
         "id": 1,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 0,
-        "image": "src/assets/product2.png"
+        "image": "/src/assets/product2.png"
     },
     {
         "id": 2,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "assets/product3.png"
+        "image": "/src/assets/product3.png"
     },
     {
         "id": 3,
