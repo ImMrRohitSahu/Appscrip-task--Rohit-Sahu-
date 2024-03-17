@@ -18,7 +18,7 @@
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "/src/assets/product3.png"
+        "image": "src/assets/product3.png"
     },
     {
         "id": 3,
