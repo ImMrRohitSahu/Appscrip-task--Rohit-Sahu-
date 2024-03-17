@@ -4,7 +4,7 @@
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 20,
-        "image": "./assets/product1.png"
+        "image": "/assets/product1.png"
     },
     {
         "id": 1,
@@ -18,7 +18,7 @@
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "/src/assets/product3.png"
+        "image": "assets/product3.png"
     },
     {
         "id": 3,
