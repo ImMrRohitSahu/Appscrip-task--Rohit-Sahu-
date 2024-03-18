@@ -11,118 +11,118 @@
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 0,
-        "image": "https://i.imgur.com/c5YC5st.png"
+        "image": "/product2.png"
     },
     {
         "id": 2,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/WZHfFyw.png"
+        "image": "/product3.png"
     },
     {
         "id": 3,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/GHzsN2q.png"
+        "image": "/product4.png"
     },
     {
         "id": 4,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/mHFNmey.png"
+        "image": "/product5.png"
     },
     {
         "id": 5,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/dbHgqZk.png"
+        "image": "/product6.png"
     },
     {
         "id": 6,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/VdHniQ9.png"
+        "image": "/product7.png"
     },
     {
         "id": 7,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/iRP1JW9.png"
+        "image": "/product8.png"
     },
     {
         "id": 8,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/dg4H6UA.png"
+        "image": "/product9.png"
     },
     {
         "id": 9,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/PxP8f3U.png"
+        "image": "/product10.png"
     },
     {
         "id": 10,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/HsiP8kD.png"
+        "image": "/product11.png"
     },
     {
         "id": 11,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/oL4ghVg.png"
+        "image": "/product12.png"
     },
     {
         "id": 12,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/uHFGkEB.png"
+        "image": "/product13.png"
     },
     {
         "id": 13,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/R87FHy4.png"
+        "image": "/product14.png"
     },
     {
         "id": 14,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/817gh1l.png"
+        "image": "/product15.png"
     },
     {
         "id": 15,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/0CWVQkx.png"
+        "image": "/product16.png"
     },
     {
         "id": 16,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/mHFNmey.png"
+        "image": "/product17.png"
     },
     {
         "id": 17,
         "title": "Product Name",
         "description": "Sign in or Create an account to see pricing",
         "stock": 12,
-        "image": "https://i.imgur.com/oL4ghVg.png"
+        "image": "/product18.png"
     }
 ]
