@@ -1,6 +1,6 @@
 import { useState } from "react";
-import checkbox from "/src/assets/Checkbox.png";
-import ArrowLeft from "/src/assets/arrow-left.png";
+import checkbox from "/Public/assets/Checkbox.png";
+import ArrowLeft from "/Public/assets/arrow-left.png";
 
 // eslint-disable-next-line react/prop-types
 const FilterSection = ({ filterTab, filterRef }) => {
