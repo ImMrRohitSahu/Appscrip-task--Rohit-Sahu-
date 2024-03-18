@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from "react";
 import Products from "../Products/Products";
-import ArrowLeft from "/Public/assets/arrow-left.png";
-import CheckedIcon from "/Public/assets/Vector.png";
+import ArrowLeft from "/src/assets/arrow-left.png";
+import CheckedIcon from "/src/assets/Vector.png";
 
 const ProductList = () => {
   const [filterTab, setFilterTab] = useState(false);

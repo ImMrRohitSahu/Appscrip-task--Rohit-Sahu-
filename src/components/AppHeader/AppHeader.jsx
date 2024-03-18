@@ -1,13 +1,13 @@
-import Logo from "/Public/assets/top-logo.png";
-import MainLogo from "/Public/assets/Logo.png";
-import TextLogo from "/Public/assets/LOGOtext.png";
-import SearchIcon from "/Public/assets/search-normal.png";
-import HeartIcon from "/Public/assets/heart.png";
-import CartIcon from "/Public/assets/shopping-bag.png";
-import ProfileIcon from "/Public/assets/profile.png";
-import ArrowDown from "/Public/assets/arrow-left.png";
-import MenuIcon from "/Public/assets/solar_hamburger-menu-linear.png";
-import CloseIcon from "/Public/assets/close.png";
+import Logo from "/src/assets/top-logo.png";
+import MainLogo from "/src/assets/Logo.png";
+import TextLogo from "/src/assets/LOGOtext.png";
+import SearchIcon from "/src/assets/search-normal.png";
+import HeartIcon from "/src/assets/heart.png";
+import CartIcon from "/src/assets/shopping-bag.png";
+import ProfileIcon from "/src/assets/profile.png";
+import ArrowDown from "/src/assets/arrow-left.png";
+import MenuIcon from "/src/assets/solar_hamburger-menu-linear.png";
+import CloseIcon from "/src/assets/close.png";
 import { useEffect, useRef, useState } from "react";
 import MenuSection from "../MenuSection/MenuSection";
 

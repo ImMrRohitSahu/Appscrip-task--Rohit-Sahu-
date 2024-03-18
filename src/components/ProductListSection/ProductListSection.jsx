@@ -1,7 +1,7 @@
 import { useState } from "react";
 import products from "../../app/data.json";
-import heartIcon from "/Public/assets/heart.png";
-import redheart from "/Public/assets/redheart.png";
+import heartIcon from "/src/assets/heart.png";
+import redheart from "/src/assets/redheart.png";
 
 const ProductListSection = () => {
   // State to track products in the wishlist

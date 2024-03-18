@@ -1,7 +1,7 @@
-import USDFlag from "/Public/assets/USDFlag.png";
-import instagram from "/Public/assets/Insta.png";
-import linkdin from "/Public/assets/mdi_linkedin.png";
-import ArrowDown from "/Public/assets/arrow-right.png";
+import USDFlag from "/src/assets/USDFlag.png";
+import instagram from "/src/assets/Insta.png";
+import linkdin from "/src/assets/mdi_linkedin.png";
+import ArrowDown from "/src/assets/arrow-right.png";
 import { useState } from "react";
 
 const AppFooter = () => {
