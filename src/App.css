@@ -879,6 +879,19 @@ main {
   .app-footer{
     padding: 0px 2vw;
   }
+  .customizble>span{
+    font-size: 15px;
+  }
+  .customizble > img {
+    width: 18px;
+    height: 18px;
+  }
+  .filter-option-common > span{
+    font-size: 15px;
+  }
+  .filter-option-common-container>span{
+    font-size: 14px;
+  }
 }
 
 @media screen and (max-width: 576px) {
