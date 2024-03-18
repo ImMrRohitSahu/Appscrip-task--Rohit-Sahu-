@@ -880,17 +880,17 @@ main {
     padding: 0px 2vw;
   }
   .customizble>span{
-    font-size: 15px;
+    font-size: 14px;
   }
   .customizble > img {
     width: 18px;
     height: 18px;
   }
   .filter-option-common > span{
-    font-size: 15px;
+    font-size: 14px;
   }
   .filter-option-common-container>span{
-    font-size: 14px;
+    font-size: 13px;
   }
 }
 
